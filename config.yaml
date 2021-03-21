@@ -1,0 +1,15 @@
+# Relational database  configuration
+db_name: 'sqlalchemy'
+db_host: 'localhost'
+db_port: '3306'
+db_password: ''
+db_user: 'root'
+db_connector: 'mysql+pymysql'
+
+# Nosql database configuration
+mongo_host: 'mongodb+srv'
+mongo_name: 'myFirstDatabase'
+mongo_cluster: 'cluster0.gtv0b.mongodb.net'
+mongo_password: 'F6kn6nuT5DPTyuT'
+mongo_user: 'mebalenoel'
+mongo_port: ''
